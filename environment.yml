@@ -3,7 +3,7 @@ dependencies:
   - python=2.7
   - notebook=5.0
   - ipywidgets=6.0
-  - requests=2.14
+  - requests
   # get dependencies for pgcontents
   - certifi
   - click
@@ -13,6 +13,7 @@ dependencies:
   - sqlalchemy
   - nose
   - pip:
+    - git+git://github.com/maloyang/pgcontents.git
     - pandas
     - matplotlib
     - pymongo
