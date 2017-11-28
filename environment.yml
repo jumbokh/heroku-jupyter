@@ -13,7 +13,6 @@ dependencies:
   - sqlalchemy
   - nose
   - pip:
-    - twstock
     - pandas
     - matplotlib
     - pymongo
