@@ -17,7 +17,6 @@ dependencies:
   - nose
   - pip:
     - pgcontents
-    - twstock
     - pandas
     - matplotlib
     - pymongo
