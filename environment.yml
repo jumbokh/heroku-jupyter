@@ -1,9 +1,9 @@
 name: root
 dependencies:
   - python=2.7
-  - notebook
-  - ipywidgets=6.0.0
-  - requests
+  - notebook=5.0
+  - ipywidgets=6.0
+  - requests=2.14
   # get dependencies for pgcontents
   - certifi
   - click
